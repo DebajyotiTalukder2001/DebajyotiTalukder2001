@@ -5,7 +5,7 @@ With a solid foundation in programming languages such as C, Java, and Python, as
 
 - 📫 How to reach me: <br> 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debojyoti.talukder.2017@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/debajyoti-talukder) 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/debajyoti-talukder) 
   
 <!--
 **DebajyotiTalukder2001/DebajyotiTalukder2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
