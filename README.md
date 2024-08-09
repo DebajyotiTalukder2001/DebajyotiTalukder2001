@@ -2,7 +2,7 @@
 
 Upcoming Systems Engineer at Tata Consultancy Services (TCS) | TCS Digital | B.Tech. (CSE) | Full-Stack Developer
 
-<h2>💫 About me: </h2>
+<h2>💫 About Me: </h2>
 
 With a solid foundation in programming languages such as C, Java, and Python, as well as expertise in web development, I am driven to advance my career in the IT industry. I have experience in implementing diverse applications utilizing machine learning, deep learning, and various Python libraries. I am committed to staying ahead of technological advancements to deliver impactful solutions that drive organizational success and foster innovation. 
 
