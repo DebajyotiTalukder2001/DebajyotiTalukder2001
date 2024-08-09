@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Debajyoti Talukder
-Upcoming Systems Engineer (@TCS Digital) at Tata Consultancy Services (TCS)
+
+Upcoming Systems Engineer at Tata Consultancy Services (TCS) | TCS Digital | B.Tech. (CSE) | Full-Stack Developer
 
 <h2>💫 About me: </h2>
 
