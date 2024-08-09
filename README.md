@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Debajyoti Talukder
 Upcoming Systems Engineer (@TCS Digital) at Tata Consultancy Services (TCS)
 
-With a solid foundation in programming languages such as C, Java, and Python, as well as expertise in web development, I am driven to advance my career in the IT industry. I have experience in implementing diverse applications utilizing machine learning, deep learning, and various Python libraries. I am committed to staying ahead of technological advancements to deliver impactful solutions that drive organizational success and foster innovation.
+<h2>💫 About me: </h2>
+
+With a solid foundation in programming languages such as C, Java, and Python, as well as expertise in web development, I am driven to advance my career in the IT industry. I have experience in implementing diverse applications utilizing machine learning, deep learning, and various Python libraries. I am committed to staying ahead of technological advancements to deliver impactful solutions that drive organizational success and foster innovation. 
+
 
 - 📫 How to reach me: <br> 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debojyoti.talukder.2017@gmail.com)
