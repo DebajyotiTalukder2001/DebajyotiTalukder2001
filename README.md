@@ -8,7 +8,7 @@ With a solid foundation in programming languages such as Java and Python, as wel
 
 <p><a href ="https://drive.google.com/file/d/1AOWUeriQLTpYrJ1Gf8AU6En71ykninMd/view?usp=sharing"><img src="https://github.com/user-attachments/assets/ee1ef23e-0331-48ff-b022-601f0eeae554" width="48"></a> &nbsp;
   <a href ="https://www.credly.com/users/debajyoti-talukder"><img src="https://github.com/user-attachments/assets/c3f11c6b-c52c-4e7a-b5d5-dd078f29b7c9" width="48"></a> &nbsp;
-  <a href ="https://drive.google.com/file/d/1sHXvkrehfIGckBxTb5Ukm52QZ7NfA9ar/view?usp=sharing"><img src="https://github.com/user-attachments/assets/00244e37-5e08-42f4-b20f-42c71a8f0970" width="64"></a> &nbsp;
+  <a href ="https://drive.google.com/file/d/1sHXvkrehfIGckBxTb5Ukm52QZ7NfA9ar/view?usp=sharing"><img src="https://github.com/user-attachments/assets/919f8ab1-0e0e-450c-9732-dda544f379bb" width="64"></a> &nbsp;
   <a href ="https://www.geeksforgeeks.org/user/debajyotitalukder2001/"><img src="https://github.com/user-attachments/assets/6cb0e1e6-860a-458d-a4c3-6c7a7296e8a3" width="48"></a></p>
 
 - 📫 How to reach me: <br> 
