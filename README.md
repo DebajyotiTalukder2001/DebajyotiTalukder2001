@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=DebajyotiTalukder2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DebajyotiTalukder2001&limit=8&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DebajyotiTalukder2001&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
