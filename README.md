@@ -4,12 +4,16 @@ Upcoming Systems Engineer (TCS Digital) at Tata Consultancy Services (TCS) | Bac
 
 <h2>💫 About Me: </h2>
 
+
 With a solid foundation in programming languages such as Java and Python, as well as expertise in web development, I am driven to advance my career in the IT industry. I have experience in implementing diverse applications utilizing machine learning, deep learning, and various Python libraries. I am committed to staying ahead of technological advancements to deliver impactful solutions that drive organizational success and foster innovation. 
 
 <p><a href ="https://drive.google.com/file/d/1AOWUeriQLTpYrJ1Gf8AU6En71ykninMd/view?usp=sharing"><img src="https://github.com/user-attachments/assets/ee1ef23e-0331-48ff-b022-601f0eeae554" width="48"></a> &nbsp;
   <a href ="https://www.credly.com/users/debajyoti-talukder"><img src="https://github.com/user-attachments/assets/c3f11c6b-c52c-4e7a-b5d5-dd078f29b7c9" width="48"></a> &nbsp;
   <a href ="https://drive.google.com/file/d/1L2fxCiSQdxPPxYCmBVNKxHlYjduEjKWs/view?usp=sharing"><img src="https://github.com/user-attachments/assets/13ee87b1-fea2-4196-8691-e4f24ce479b7" width="64"></a> &nbsp;
-  <a href ="https://www.geeksforgeeks.org/user/debajyotitalukder2001/"><img src="https://github.com/user-attachments/assets/6cb0e1e6-860a-458d-a4c3-6c7a7296e8a3" width="48"></a></p>
+  <a href ="https://www.geeksforgeeks.org/user/debajyotitalukder2001/"><img src="https://github.com/user-attachments/assets/6cb0e1e6-860a-458d-a4c3-6c7a7296e8a3" width="48"></a> &nbsp;
+<a href ="leetcode.com/DebajyotiTalukder2001/"><img src="https://github.com/user-attachments/assets/60458363-abcd-4fbc-a786-ee23ac97ca04" width="50"></a></p>
+
+  
 
 - 📫 How to reach me: <br> 
 
