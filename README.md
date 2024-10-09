@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [![geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=debajyotitalukder2001)](https://www.geeksforgeeks.org/user/debajyotitalukder2001/)
 
 # 📊 LeetCode Stats: 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/DebajyotiTalukder2001?theme=dark&font=Abel)](https://leetcode.com/u/DebajyotiTalukder2001/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DebajyotiTalukder2001?ext=heatmap)](https://leetcode.com/u/DebajyotiTalukder2001/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
