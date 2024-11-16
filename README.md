@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Debajyoti Talukder
 
-Bachelor of Technology (Computer Science and Engineering) | Full-Stack Developer
+Upcoming Systems Engineer (TCS Digital) at Tata Consultancy Services (TCS) | Bachelor of Technology (Computer Science and Engineering) | Full-Stack Developer
 
 <h2>💫 About Me: </h2>
 
