@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 # ℹ️ Resume:
 
-- Resume: [Click Here](https://drive.google.com/file/d/1AOWUeriQLTpYrJ1Gf8AU6En71ykninMd/view?usp=sharing)
+- Resume: [Click Here](https://drive.google.com/drive/u/0/folders/1TsT8oDvqnyDYa5EcAJOKNFi7CnUx2jpi)
 
 
 # 💻 Tech Stack:
