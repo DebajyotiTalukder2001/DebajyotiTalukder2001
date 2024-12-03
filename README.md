@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 
 # 📊 GeeksforGeeks Stats: 
-[![geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=debajyotitalukder2001)](https://www.geeksforgeeks.org/user/debajyotitalukder2001/)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/debajyotitalukder2001)](https://www.geeksforgeeks.org/user/debajyotitalukder2001/)
 
 
 # 📊 GitHub Stats:
