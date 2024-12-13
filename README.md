@@ -15,9 +15,7 @@ With a solid foundation in programming languages such as Java and Python, as wel
 - 📫 How to reach me: <br> 
 
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debojyoti.talukder.2017@gmail.com)
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/debajyoti-talukder) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debojyoti.talukder.2017@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/debajyoti-talukder) 
   
   
 <!--
