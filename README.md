@@ -11,13 +11,13 @@ With a solid foundation in programming languages such as Java and Python, as wel
   <a href ="https://www.geeksforgeeks.org/user/debajyotitalukder2001/"><img src="https://github.com/user-attachments/assets/6cb0e1e6-860a-458d-a4c3-6c7a7296e8a3" width="48"></a> &nbsp;
 </p>
 
-  
+<!--  
 - 📫 How to reach me: <br> 
 
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debojyoti.talukder.2017@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/debajyoti-talukder) 
   
-  
+-->
 <!--
 **DebajyotiTalukder2001/DebajyotiTalukder2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
