@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 | Cetification | Issued by | URL |
 | ---- | ----- | ------ |
 | AWS Knowledge: Cloud Essentials (2024) | AWS Skill Builder | [Click Here](https://www.credly.com/badges/28fdf291-4923-45ef-b424-63fdf67f73b1)|
-| DevOps and AWS Cloud Practitioner Essentials (2024) | AWS Skill Builder | [Click Here](https://drive.google.com/file/d/1D4lbhuqmh9I0elzIrcR_MndCRgLZKEsI/view)|
 | IBM Cloud Essentials (2024) | IBM SkillsBuild | [Click Here](https://drive.google.com/file/d/1u03MFBiIk1IOtPrAxO_5h-XHv1fExkDl/view)|
 | SQL and Relational Databases (2024) | IBM SkillsBuild | [Click Here](https://drive.google.com/file/d/1Hon-gl1qxjcDNr5qF_OkYRBMBJjtFVFP/view)|
 | Linux Essentials (2024) | Cisco Networking Academy | [Click Here](https://drive.google.com/file/d/1ItPgystregfzsUpaED9YFo3ZxYeoDnxg/view)|
