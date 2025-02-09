@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 | Python Development Internship Program (2023) | CodeSpeedy Technology Private Limited | [Click Here](https://drive.google.com/file/d/15zNr4Xp3BBuBBxjOtNuz37Jq5eBNd8XU/view)|
 | Full-Stack Development Industrial Training Program (2023) | Ardent Computech Pvt. Ltd. | [Click Here](https://drive.google.com/file/d/1jiUM_Z4vBDwCVHFU3Aul21CaaatiCZJY/view)|
 
-
+<!--
 # 📊 GeeksforGeeks Stats: 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/debajyotitalukder2001)](https://www.geeksforgeeks.org/user/debajyotitalukder2001/)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/debajyotitalukder2001)](https://www.geeksforgeeks.org/user/debajyotitalukder2001/) -->
 
 
 # 📊 GitHub Stats:
