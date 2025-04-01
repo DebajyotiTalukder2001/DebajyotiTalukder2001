@@ -6,9 +6,9 @@ Systems Engineer (TCS Digital) at Tata Consultancy Services | Full-Stack Develop
 
 With a solid foundation in programming languages such as Java and Python, as well as expertise in full-stack development, I am driven to advance my career in the IT industry. I am committed to staying ahead of technological advancements to deliver impactful solutions that drive organizational success and foster innovation.
 
-<p><a href ="https://drive.google.com/drive/u/0/folders/1TsT8oDvqnyDYa5EcAJOKNFi7CnUx2jpi"><img src="https://github.com/user-attachments/assets/ee1ef23e-0331-48ff-b022-601f0eeae554" width="48"></a> &nbsp;
+<!--<p><a href ="https://drive.google.com/drive/u/0/folders/1TsT8oDvqnyDYa5EcAJOKNFi7CnUx2jpi"><img src="https://github.com/user-attachments/assets/ee1ef23e-0331-48ff-b022-601f0eeae554" width="48"></a> &nbsp;
   <a href ="https://www.credly.com/users/debajyoti-talukder"><img src="https://github.com/user-attachments/assets/c3f11c6b-c52c-4e7a-b5d5-dd078f29b7c9" width="48"></a> &nbsp;
-</p>
+</p>-->
 
 <!--
 - 📫 How to reach me: <br> 
