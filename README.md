@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DebajyotiTalukder2001&theme=onedark) 
+![](https://github-trophies.vercel.app/?username=DebajyotiTalukder2001&theme=onedark&title=Repositories,Stars,Followers,Commits,NewUser,LongTimeUser,MultiLanguage,PullRequest,Issues,AncientUser&margin-w=5&margin-h=5) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DebajyotiTalukder2001&limit=10&theme=dark&combine_all_yearly_contributions=true)
