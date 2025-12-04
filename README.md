@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plastic&logo=Windows%2011&logoColor=white)  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=plastic&logo=Opera&logoColor=white) ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=plastic&logo=Google-chrome&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plastic&logo=openai&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white) 
 
 
-
-
-
 # 🏆 Certifications:
 
 - Credly Profile: [Click Here](https://www.credly.com/users/debajyoti-talukder)
@@ -63,18 +60,13 @@ Here are some ideas to get you started:
 | Python Development Internship Program (2023) | CodeSpeedy Technology Private Limited | [Click Here](https://drive.google.com/file/d/15zNr4Xp3BBuBBxjOtNuz37Jq5eBNd8XU/view)|
 | Full-Stack Development Industrial Training Program (2023) | Ardent Computech Pvt. Ltd. | [Click Here](https://drive.google.com/file/d/1jiUM_Z4vBDwCVHFU3Aul21CaaatiCZJY/view)|
 
-<!--
-# 📊 GeeksforGeeks Stats: 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/debajyotitalukder2001)](https://www.geeksforgeeks.org/user/debajyotitalukder2001/) -->
-
-<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DebajyotiTalukder2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DebajyotiTalukder2001&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=DebajyotiTalukder2001&theme=onedark) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DebajyotiTalukder2001&limit=10&theme=dark&combine_all_yearly_contributions=true)
