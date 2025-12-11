@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 ![](https://github-trophies.vercel.app/?username=DebajyotiTalukder2001&theme=onedark&title=Repositories,Stars,Followers,Commits,NewUser,LongTimeUser,MultiLanguage,PullRequest,Issues,AncientUser&margin-w=5&margin-h=5) 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DebajyotiTalukder2001&limit=10&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DebajyotiTalukder2001&limit=11&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
