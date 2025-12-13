@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DebajyotiTalukder2001&show_icons=true&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebajyotiTalukder2001&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebajyotiTalukder2001&theme=dark&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DebajyotiTalukder2001&limit=10&theme=dark&combine_all_yearly_contributions=true)
