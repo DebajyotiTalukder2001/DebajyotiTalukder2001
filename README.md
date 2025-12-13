@@ -61,9 +61,8 @@ Here are some ideas to get you started:
 | Full-Stack Development Industrial Training Program (2023) | Ardent Computech Pvt. Ltd. | [Click Here](https://drive.google.com/file/d/1jiUM_Z4vBDwCVHFU3Aul21CaaatiCZJY/view)|
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DebajyotiTalukder2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebajyotiTalukder2001&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=DebajyotiTalukder2001&theme=onedark&title=Repositories,Stars,Followers,Commits,NewUser,LongTimeUser,MultiLanguage,PullRequest,Issues,AncientUser&margin-w=5&margin-h=5) 
