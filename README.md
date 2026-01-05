@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 | Full-Stack Development Industrial Training Program (2023) | Ardent Computech Pvt. Ltd. | [Click Here](https://drive.google.com/file/d/1jiUM_Z4vBDwCVHFU3Aul21CaaatiCZJY/view)|
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DebajyotiTalukder2001&show_icons=true&theme=dark&hide_border=false)<br/>
+![](https://awesome-github-stats.azurewebsites.net/user-stats/DebajyotiTalukder2001?cardType=github&theme=radical&fontFamily=&preferLogin=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DebajyotiTalukder2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
